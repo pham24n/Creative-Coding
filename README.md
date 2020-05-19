@@ -1,6 +1,6 @@
 # Creative-Coding
 
-This is a creative coding project that aims to create an aesthetic-looking program that simulates human body movements. This project spanned over 3 months and is operated mainly on Processing 3.5.3.
+This is a creative coding project that aims to create an aesthetic-looking program that simulates human body movements. This project is operated mainly on Processing 3.5.3.
 
 The program creates a piece of art that features an object embodying the human’s head and arms. This object simulates the arms’ movements and responses to the distance from the human body to the camera. A video illustrating how the program works is in the documentation folder.
 
