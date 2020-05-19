@@ -7,7 +7,6 @@ class BackgroundRender{
   ArrayList<Float> pointY;
   ArrayList<Float> c;
   
-  //this construv
   BackgroundRender(float x, float y, float w, float h) {
     this.x = x; //x and y position of the center of the background
     this.y = y;
