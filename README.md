@@ -1,5 +1,4 @@
 # Creative-Coding
-# BODY MOVEMENT TRACKING PROJECT
 
 This is a creative coding project that aims to create an aesthetic-looking program that simulates human body movements. This project spanned over 3 months and is operated mainly on Processing 3.5.3.
 
