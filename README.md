@@ -2,7 +2,7 @@
 
 This is a creative coding project that aims to create an aesthetic-looking program that simulates human body movements. This project is operated mainly on Processing 3.5.3.
 
-The program creates a piece of art that features an object embodying the human’s head and arms. This object simulates the arms’ movements and responses to the distance from the human body to the camera. A video illustrating how the program works is in the documentation folder.
+The program creates a piece of art that features an object embodying the human’s head and arms. This object simulates the arms’ movements and responses to the distance from the human body to the camera. A video illustrating how the program works is in the Documentation folder.
 
 The program utilizes the background subtraction technique to detect the human body from the camera and its movements. To create a smooth simulation of the arms’ movements, the program keeps track of the largest and smallest x-values of the changing pixels (A changing pixel is a pixel whose value is different from its background value. It indicates that there is a movement at the specified pixel. Thus, a group of changing pixels represents the human body in the image). The reason for keeping track of the smallest and largest x values is because if we measure the body’s width, the left arm is usually in the lowest range and the right arm is in the largest range. Hence, the pixel with the smallest x-value would tend to locate near the left arm and the pixel with the largest x-value would locate near the right arm. This works well under many cases when the image of the arms is distinctive to the rest of the body, for example,
   
